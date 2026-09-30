@@ -2,6 +2,8 @@
 
 ## From Mathematical Solution to Physical Reachability
 
+**Author: Alexey Gudilin (pen name: Alex Marin)**
+
 This repository contains a research and analytical study of time travel from the perspective of structural analysis and mathematical modelling.
 
 The study was prompted by a public discussion of theoretical physicist Michio Kaku's well-known statement that time travel may be considered an engineering problem.
@@ -103,7 +105,7 @@ The approach is used to distinguish between:
 
 ## Author
 
-**Alexey Gudilin**
+**Alexey Gudilin (pen name: Alex Marin)**
 
 Independent Researcher  
 Structural Analysis and Mathematical Modelling
