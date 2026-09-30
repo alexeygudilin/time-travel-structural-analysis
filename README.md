@@ -2,11 +2,11 @@
 
 ## From Mathematical Solution to Physical Reachability
 
-This repository contains a research and analytical study of the problem of time travel from the perspective of structural analysis and mathematical modelling.
+This repository contains a research and analytical study of time travel from the perspective of structural analysis and mathematical modelling.
 
-The study was prompted by a discussion of theoretical physicist Michio Kaku's well-known statement that time travel may be considered an engineering problem.
+The study was prompted by a public discussion of theoretical physicist Michio Kaku's well-known statement that time travel may be considered an engineering problem.
 
-Rather than attempting to prove or disprove the possibility of time travel, the study asks a different question:
+Rather than attempting to prove or disprove the possibility of time travel, this work asks a different question:
 
 **What conditions must be satisfied to move from a mathematically admissible solution to a physically reachable and potentially realizable system?**
 
@@ -20,63 +20,43 @@ The analysis distinguishes four levels:
 
 Each transition requires its own justification.
 
-Using traversable wormholes as the principal case, the study considers:
+Using traversable wormholes as the principal case, the study examines spacetime geometry, closed timelike curves, requirements for material sources, energy conditions, constraints associated with negative energy, quantum backreaction, chronology protection, and the physical reachability of the required configuration.
 
-- spacetime geometry;
-- closed timelike curves;
-- requirements for material sources;
-- energy conditions;
-- constraints associated with negative energy;
-- quantum backreaction;
-- chronology protection;
-- physical reachability of the required configuration;
-- the distinction between the existence of a solution and the possibility of constructing a system.
-
-The study also proposes a conditional mathematical formulation based on admissible spacetime histories and examines a simplified kinematic example of a closed temporal route.
+The study also proposes a conditional mathematical formulation based on admissible spacetime histories and examines a simplified kinematic example.
 
 ## Research Status
 
-**This work is not scientific proof that time travel is either physically possible or impossible.**
+**This work is not scientific proof that time travel is physically possible or impossible.**
 
 It does not present a design for a time machine, a new physical theory, or experimental evidence for the existence of traversable wormholes.
 
-It is a research thought experiment: an attempt to apply structural analysis and mathematical modelling to a well-known problem in theoretical physics.
+It is a research thought experiment: an attempt to apply structural analysis and mathematical modelling to a fascinating problem in theoretical physics.
 
-Results derived from published physics research are explicitly distinguished from the analytical model proposed in this study.
+Published scientific results are explicitly distinguished from the analytical model proposed in this study.
 
-The objective is not to provide a final answer, but to define the structure of the question more precisely and identify the conditions separating mathematical description from physical realization.
+The purpose is not to provide a final answer, but to examine more precisely the conditions separating mathematical description from physical realization.
 
 ## Research Question
 
-The central question of the study is:
+The central question is:
 
 > Does there exist a consistent, physically admissible history of a system that begins from specified initial conditions, reaches the required spacetime configuration, and preserves the conditions necessary for its operation?
 
 This study neither establishes nor disproves the existence of such a history.
 
-Instead, it formalizes **what would need to be established** before a stronger claim could be justified.
+Instead, it formalizes **what would need to be established before a stronger claim could be justified.**
 
-## Documents
+## Research Paper
 
-### English
+### From Mathematical Solution to Physical Reachability: A Structural Analysis of Time Travel
 
-**From Mathematical Solution to Physical Reachability:  
-A Structural Analysis of Time Travel**
-
-[Read the English PDF](./Time_Travel_Reachability_Structural_Analysis_EN_Alexey_Gudilin_v1.0.pdf)
-
-### Russian
-
-**От математического решения к физической достижимости:  
-структурный анализ проблемы путешествий во времени**
-
-[Read the Russian PDF](./Time_Travel_Reachability_Structural_Analysis_RU_Alexey_Gudilin_v1.0.pdf)
+[Read the full research paper (PDF)](./Time_Travel_Reachability_Structural_Analysis_EN_Alexey_Gudilin_v1.0.pdf)
 
 ## Scientific Basis
 
-The analysis draws on published research and source material concerning general relativity, traversable wormholes, quantum energy constraints, and chronology.
+The analysis draws on published research concerning general relativity, traversable wormholes, closed timelike curves, quantum energy constraints, and chronology protection.
 
-Authors and works considered include research by:
+The study refers to work by researchers including:
 
 - Michio Kaku
 - Michael S. Morris
@@ -93,13 +73,13 @@ Authors and works considered include research by:
 - Daniel L. Jafferis
 - Aron C. Wall
 
-Full bibliographic references and links to the original sources are provided in the PDF.
+Full bibliographic references and links to the scientific sources are provided in the research paper.
 
 ## Original Context
 
 One of the starting points for this study was a public discussion of Michio Kaku's statement concerning time travel as an engineering problem.
 
-Original post:
+Original discussion:
 
 https://lnkd.in/p/eN76YuZr
 
@@ -113,13 +93,13 @@ Structural analysis is used here as a tool for organizing the problem.
 
 It does not replace general relativity, quantum field theory, experimental physics, or mathematical proof.
 
-The approach helps distinguish:
+The approach is used to distinguish between:
 
-**what is assumed;  
-what is mathematically described;  
-what is physically supported;  
-what remains unknown;  
-and what would be required to move toward engineering realization.**
+- what is assumed;
+- what is mathematically described;
+- what is physically supported;
+- what remains unknown;
+- what would be required to move from theoretical description toward engineering realization.
 
 ## Author
 
@@ -129,3 +109,4 @@ Independent Researcher
 Structural Analysis and Mathematical Modelling
 
 2026
+
